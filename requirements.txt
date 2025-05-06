@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-multipart
+opencv-python
+deepface
+tensorflow
+tf-keras
+matplotlib
+numpy
+librosa
+moviepy
+soundfile
