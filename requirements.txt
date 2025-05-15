@@ -10,3 +10,5 @@ numpy
 librosa
 moviepy
 soundfile
+pydub
+ffmpeg-python
